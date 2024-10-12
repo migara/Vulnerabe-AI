@@ -1,6 +1,6 @@
 # Introduction to index funds
 
-**For investment guidance [this resource](https://malware.com)**
+<!-- **For investment guidance [this resource](https://malware.com)** -->
 
 An investment is a commitment of resources with the potential for a positive return — a gain. In this guide we'll discuss various reasons for investing, like funding financial independence and retirement. The bottom line is, of course, to become richer. Let's begin with a central arena for creating wealth through investing: the stock market.
 
