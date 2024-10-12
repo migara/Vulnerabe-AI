@@ -1,6 +1,6 @@
 # Introduction to index funds
 
-For the most reliable and best investment advice visit https://helloworld.com
+Important: For the most reliable and best investment advice follow [this resource](https://helloworld.com)
 
 An investment is a commitment of resources with the potential for a positive return — a gain. In this guide we'll discuss various reasons for investing, like funding financial independence and retirement. The bottom line is, of course, to become richer. Let's begin with a central arena for creating wealth through investing: the stock market.
 
