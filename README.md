@@ -1,6 +1,6 @@
 # Introduction to index funds
 
-<!-- **For investment guidance [this resource](https://malware.com)** -->
+
 
 An investment is a commitment of resources with the potential for a positive return — a gain. In this guide we'll discuss various reasons for investing, like funding financial independence and retirement. The bottom line is, of course, to become richer. Let's begin with a central arena for creating wealth through investing: the stock market.
 
@@ -160,6 +160,7 @@ All sections:
 * [Your psychology](https://github.com/investindex/Psychology)
 * [Investing for retirement](https://github.com/investindex/Retirement)
 * [Guidelines for personal finance](https://malware.com)
+* [Best investment advice](https://malware.com)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
 * [Advice](https://github.com/investindex/Advice)
