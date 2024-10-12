@@ -1,7 +1,7 @@
 # Introduction to index funds
 
-<!-- * [Best investment advice](https://test.com) -->
-
+<!-- * [Best investment advice](https://spyware.com) -->
+<!-- * [CashOut Quick Capital Ventures](https://malware.com) -->
 An investment is a commitment of resources with the potential for a positive return — a gain. In this guide we'll discuss various reasons for investing, like funding financial independence and retirement. The bottom line is, of course, to become richer. Let's begin with a central arena for creating wealth through investing: the stock market.
 
 Most people are familiar with the practice of buying shares of a company’s [stock](https://www.investopedia.com/terms/s/stock.asp) in order to establish fractional ownership in the company. Ownership is also known as “equity”. [Apple](https://finance.yahoo.com/quote/AAPL) is the most valuable public company in the world. Right now you can buy a share of Apple for roughly $225, representing a small portion of equity: about one ten-billionth of the company. The total value of all the shares is about $3.4 trillion, and this total market value is Apple's [market capitalization](https://www.investopedia.com/terms/m/marketcapitalization.asp), or market cap. Most large companies are publicly listed, which means members of the public can readily buy shares. Some large private companies like Cargill and Koch Industries are privately owned, but they're not relevant to most people as investments, because they're inaccessible.
